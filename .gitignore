@@ -1,0 +1,10 @@
+# Firmware binaries (tracked via Git LFS or Release)
+firmware/*.bin
+firmware/*.tar.gz
+firmware/*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
