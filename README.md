@@ -116,3 +116,9 @@ MIT — feel free to use, share, and build upon this research.
 - [bkerler / edl](https://github.com/bkerler/edl) — Qualcomm EDL tool
 - [EFF Rayhunter](https://efforg.github.io/rayhunter/uz801.html) — IMSI catcher detection
 - [SensePost P4wnP1-LTE](https://sensepost.com/blog/2023/p4wnp1-lte/) — USB attack platform
+
+## 🔧 Modifications Guide
+
+Looking for practical modifications to the stock firmware? Check out the companion repo:
+
+[**tukzer-wm3311-modifications**](https://github.com/CliffVale/tukzer-wm3311-modifications) — Root ADB, SSH, FTP, WireGuard VPN, Dashboard, SMS gateway. All mods done remotely via HTTP API.
